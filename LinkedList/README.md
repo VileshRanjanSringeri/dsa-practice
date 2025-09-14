@@ -1,1 +1,16 @@
+# LinkedList
 
+This folder contains my LeetCode solutions for Linked List problems.  
+
+Each solution file is named after the problem, for example:  
+- `reverse-linked-list.java`  
+- `merge-two-sorted-lists.java`  
+
+Solutions are primarily written in **Java**, but some may be in **Python** if noted.  
+
+## Folder Structure
+
+## Notes
+- Problems are solved from curated lists like **Blind 75** and **NeetCode 150**.  
+- Progress will be tracked in the main `README.md`.  
+- Each solution includes comments explaining the logic step-by-step.
