@@ -7,8 +7,7 @@ Each solution file is named after the problem, for example:
 - `merge-two-sorted-lists.java`  
 
 Solutions are primarily written in **Java**, but some may be in **Python** if noted.  
-
-# Folder Structure
+## Folder Structure
 
 ## Notes
 - Problems are solved from curated lists like **Blind 75** and **NeetCode 150**.  
