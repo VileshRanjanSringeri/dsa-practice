@@ -3,7 +3,7 @@
 This folder contains my LeetCode solutions for Array-related problems.  
 
 ## Solved Problems
-- `two-sum.java` → Brute Force Solution ✅  
+- `TwoSum.java` → Brute Force Solution ✅  
 
 Solutions are primarily written in **Java**, but some may be in **Python** if noted.  
 
