@@ -1,11 +1,13 @@
-# Arrays
+# LinkedList
 
-This folder contains my LeetCode solutions for Array-related problems.  
+This folder contains my LeetCode solutions for Linked List problems.  
 
-## Solved Problems
-- `two-sum.java` → Brute Force Solution ✅  
+Each solution file is named after the problem, for example:  
+- `reverse-linked-list.java`  
+- `merge-two-sorted-lists.java`  
 
 Solutions are primarily written in **Java**, but some may be in **Python** if noted.  
+## Folder Structure
 
 ## Notes
 - Problems are solved from curated lists like **Blind 75** and **NeetCode 150**.  
