@@ -3,7 +3,8 @@
 This folder contains my LeetCode solutions for Array-related problems.  
 
 ## Solved Problems
-- `TwoSum.java` → Brute Force Solution ✅  
+- `TwoSum.java` → Brute Force Solution ✅ **O(n^2)**
+- BestTimeToBuyAndSellStock.java → Optimized (Single-pass) Solution ✅ **O(n)**
 
 Solutions are primarily written in **Java**, but some may be in **Python** if noted.  
 
